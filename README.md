@@ -20,9 +20,9 @@ O **Cadastro de Cliente CLI** é uma ferramenta para uso via terminal que permit
 
 ## 🧠 Conceitos Aplicados
 
-| Módulo | Conceitos do C# Aplicados |
-| **1. Fundamentos em C#** | Tipos primitivos, variáveis, entrada/saída (`Console`), conversão segura de tipos (`int.TryParse`), casting e operadores aritméticos/lógicos. |
-| **2. Lógica de Programação** | Estruturas condicionais (`if/else`, `switch`), laços de repetição (`while`, `for`, `foreach`), manipulação de listas dinâmicas (`List<T>`) e indexação. |
+**1. Fundamentos em C#** | Tipos primitivos, variáveis, entrada/saída (`Console`), conversão segura de tipos (`int.TryParse`), casting e operadores aritméticos/lógicos. |
+
+**2. Lógica de Programação** | Estruturas condicionais (`if/else`, `switch`), laços de repetição (`while`, `for`, `foreach`), manipulação de listas dinâmicas (`List<T>`) e indexação. |
 
 ---
 
@@ -37,11 +37,11 @@ Antes de começar, você precisará ter instalado em sua máquina:
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/devtracker-cli-csharp.git](https://github.com/SEU-USUARIO/devtracker-cli-csharp.git)
+   git clone [https://github.com/SEU-USUARIO/cadastro-cliente-CLI.git](https://github.com/SEU-USUARIO/cadastro-cliente-CLI.git)
 
 2. **Acesse a pasta do projeto:**
     ```bash
-    cd desafioIntegrador
+    cd cadastro-cliente-CLI
 
 3. **Execute a aplicação:**
     ```bash
